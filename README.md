@@ -43,3 +43,8 @@ UI/UX prototyping and website development.
 ## Project Objective
 
 Build a simple, accessible, and privacy-conscious personal finance website while applying AI-assisted product development techniques.
+
+
+<img width="1263" height="627" alt="Image" src="https://github.com/user-attachments/assets/e6db5317-0878-4dee-87dd-bb3876b6a2b8" />
+
+<img width="1428" height="883" alt="Image" src="https://github.com/user-attachments/assets/cf78e12c-2674-4562-b64f-a782fc0304ae" />
